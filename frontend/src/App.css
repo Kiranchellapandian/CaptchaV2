@@ -41,3 +41,7 @@
 body{
   background-color: lightblue;
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
